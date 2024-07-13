@@ -1,4 +1,3 @@
-Chatgpt 4o python telegram uygulaması.
-Chatgpt Api aktifleştirerek api kodlarını direk girebilirsiniz.
+Bu Python kod örneği, TeleBot kütüphanesi kullanılarak bir Telegram botu oluşturur ve OpenAI'nin GPT-4.0 modelini entegre eder. Bot, kullanıcıların mesajlarına yanıt vermek için OpenAI platformunu kullanır. Kullanıcıdan gelen metni alır, OpenAI ChatCompletion API'sini kullanarak GPT-3.5 modeliyle iletişim kurar ve ardından elde edilen yanıtı kullanıcıya geri gönderir. Bu bot, doğal dil işleme yetenekleri sayesinde kullanıcılarla anlamlı sohbetler yapabilir ve geniş bir yelpazede soruları yanıtlayabilir. Kullanıcı deneyimini zenginleştirmek ve etkileşimi daha kişisel hale getirmek için tasarlanmıştır.
 
-Bu kodu kullanarak elde edebileceğiniz sonuçlara güvenerek hareket ettiğinizde, maddi ve manevi zarara uğramanız durumunda tarafımca hiçbir sorumluluk kabul edilmemektedir. Kod ücretsizdir ve referans verilmesi koşuluyla kullanılabilir.
+Yasal Uyarı: Bu kodun kullanılmasından doğabilecek her türlü sorun kullanıcının sorumluluğundadır.
